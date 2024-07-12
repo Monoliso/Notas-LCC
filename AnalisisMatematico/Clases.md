@@ -1,0 +1,6 @@
+ - [ClaseReglaCadena1.mp4 - Google Drive](https://drive.google.com/file/d/1nu2Gj-qbWEQFLPRZQDQdAU8ZuHPOBJfj/view)
+ - [ClaseCadena2.mp4 - Google Drive](https://drive.google.com/file/d/1137SV5SpyXBE1U8kf8fXUdUFTeSor8Jf/view)
+ - [ClaseDemoCadena.mp4 - Google Drive](https://drive.google.com/file/d/1vvs7imI8YucgVsp_Mp6bjIBEJ57c7p1g/view)
+ - [Clase 1.8 Unidad 4.mp4 - Google Drive](https://drive.google.com/file/d/1d2FfjQDhQsJTvaM2_u-LDkYNYBqztqSK/view)
+ - [ClaseRolle.mp4 - Google Drive](https://drive.google.com/file/d/1-oB7fG83ymsGS_PI3Z5-s97RC70Y4kZx/view)
+ - [Teorema De Cauchy 1 - YouTube](https://www.youtube.com/watch?v=GZRKVVqCdso)

@@ -1,0 +1,2 @@
+ - [Theory of Computation - MIT 2020](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+ - [Unicode It](https://www.unicodeit.net/)

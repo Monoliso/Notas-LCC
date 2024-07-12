@@ -1,0 +1,12 @@
+---
+fecha_creacion: 2024-07-11
+---
+ - [[Pensamientos sobre Latex]]
+ - [[Definición de función]]
+ - [[Ejercicio 01]]
+ - [[Ejercicio 07]]
+ - [[Ejercicio 08]]
+ - [[Ejercicio 10]]
+ - [[Ejercicio 21]]
+ - [[02 - Borrador]]
+ - [[Prueba]]

@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1720551386036,
+      "title": "Enunciados por color",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "[\"tipo_enunciado\":Teorema",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "[\"tipo_enunciado\":Proposición",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "[\"tipo_enunciado\":Lema",
+            "color": {
+              "a": 1,
+              "rgb": 3591856
+            }
+          },
+          {
+            "query": "[\"tipo_enunciado\":Definición",
+            "color": {
+              "a": 1,
+              "rgb": 6084188
+            }
+          },
+          {
+            "query": "[\"tipo_enunciado\":Corolario",
+            "color": {
+              "a": 1,
+              "rgb": 7752159
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.304573804573805,
+        "repelStrength": 9.25155925155925,
+        "linkStrength": 0.653846153846154,
+        "linkDistance": 163,
+        "scale": 0.1787452186040229,
+        "close": false
+      }
+    }
+  ]
+}

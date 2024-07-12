@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "fecha_creacion": "date",
+    "fecha_modificacion": "date",
+    "tipo_enunciado": "text"
+  }
+}

@@ -1,0 +1,18 @@
+---
+fecha_creacion: 2024-06-27
+---
+ - [[Regla de L'Hôpital]]
+ - Análisis de una función a partir de sus derivadas
+	 - Extremos locales de una función
+		 - [[Teorema del Comportamiento Monótono de Funciones Derivables]]
+		 - [[Teorema de la Segunda Derivada para Extremos Locales]]
+		 - [[Teorema de la Segunda Derivada para Condiciones Necesarias de Extremos Locales]]
+	 - Convexidad y concavidad
+		 - [[Def Función convexa]] y [[Def Función cóncava]]
+		 - [[Teorema de la Primera Derivada para Convexidad y Concavidad]]
+		 - [[Teorema del Criterio de la Derivada Segunda]]
+		 - [[Def Punto de Inflexión]]
+	 - Caracterización de convexidad
+		 - [[Teorema de la Tangente como Caracterización de la Convexidad]]
+		 - [[Teorema de la Tangente como Caracterización de la Concavidad]]
+		 - [[Teorema del Crecimiento de Primera Derivada como Caracterización de la Convexidad y Concavidad]]

@@ -1,0 +1,3 @@
+---
+tipo_enunciado: Proposición
+---
